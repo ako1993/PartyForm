@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyForm", "PartyForm\PartyForm.csproj", "{98A16504-0510-478E-9472-D179FE13C14C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98A16504-0510-478E-9472-D179FE13C14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A16504-0510-478E-9472-D179FE13C14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A16504-0510-478E-9472-D179FE13C14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A16504-0510-478E-9472-D179FE13C14C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32D1FD9C-E22E-4ADA-960E-8DBBDB626238}
+	EndGlobalSection
+EndGlobal
